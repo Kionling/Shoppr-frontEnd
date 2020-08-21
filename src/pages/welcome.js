@@ -1,7 +1,7 @@
 import React from "react";
-import ShopprLogo from "./images/logoshort.png";
-import WelcomeStyles from "./styles.css";
-import Video from "./images/skies-ani.gif"
+import ShopprLogo from "../Images/logoshort.png";
+import WelcomeStyles from "../Styles/welcome.css"
+import Video from "../Images/skies-ani.gif"
 import { useHistory} from "react-router-dom"
 
 const Styles = {
